@@ -1,8 +1,8 @@
-## Hi there 👋
 
-# Hey there! 👋 I'm [Your Name] 🌟
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Souvik Das 🌟
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub) <!-- Add your own banner image URL -->
+
+<!-- Add your own banner image URL -->
 
 ---
 
