@@ -13,7 +13,7 @@ I'm a **final-year B.Tech CSE student** passionate about **full-stack developmen
 ### ⚡ Tech Stack: **MERN, Java**  
 ### 🎓 Education: **B.Tech CSE (Final Year)**  
 ### 🌱 Learning: **Advanced system design**  
-### ☕ Fun Fact: **Code + Coffee + Music = 🚀**  
+### ☕ Fun Fact: **Code + Coffee + Music = <3 **  
 
 <img src="https://github.com/saadeghi/saadeghi/blob/main/dino.gif" width="100%">
 
