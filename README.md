@@ -13,7 +13,7 @@
 
 ### 🛠 **Tech Stack**  
 - **MERN (MongoDB, Express.js, React.js, Node.js)**  
-- **Java** (Spring Boot, DSA, OOP)  
+- **Java** ( DSA, OOP)  
 - **System Design & Architecture**  
 
 ### 📚 **Education**  
