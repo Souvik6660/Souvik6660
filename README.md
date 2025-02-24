@@ -6,13 +6,16 @@
 
 ---
 
-### 🚀 About Me
-I'm a **final-year B.Tech CSE student** passionate about building **scalable web applications** and solving real-world problems through code! I specialize in the **MERN stack (MongoDB, Express.js, React, Node.js)** and am well-versed in **Java programming** 🖥️. I thrive on writing **clean, efficient code** and love exploring **full-stack development**. My goal? Create **user-focused solutions** and contribute to **open-source projects** while pushing my limits as a developer! 🌍
+## 🚀 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🎓 **Education**: Final-year B.Tech in Computer Science & Engineering  
-- 💻 **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js), Java  
-- 🌱 **Currently Learning**: Advanced full-stack architectures & system design  
-- ⚡ **Fun Fact**: I code better with coffee and music! ☕🎶  
+I'm a **final-year B.Tech CSE student** passionate about **full-stack development** and **scalable web applications**. I specialize in the **MERN stack** and **Java**, while exploring **system design** and **open-source contributions**.  
+
+### ⚡ Tech Stack: **MERN, Java**  
+### 🎓 Education: **B.Tech CSE (Final Year)**  
+### 🌱 Learning: **Advanced system design**  
+### ☕ Fun Fact: **Code + Coffee + Music = 🚀**  
+
+<img src="https://github.com/saadeghi/saadeghi/blob/main/dino.gif" width="100%">
 
 ---
 
