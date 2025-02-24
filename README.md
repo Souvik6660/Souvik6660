@@ -37,12 +37,6 @@ I'm a **final-year B.Tech CSE student** passionate about **full-stack developmen
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
@@ -57,7 +51,7 @@ I'm a **final-year B.Tech CSE student** passionate about **full-stack developmen
 
 ---
 
-### ⚡ Fun GitHub Stickers  
+
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100">
